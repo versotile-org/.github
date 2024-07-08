@@ -30,4 +30,4 @@ In this context, we assume that identity data is implemented using public key cr
 ## Communications
 
 - Zulip: We are reachable at our [![project chat](https://img.shields.io/badge/zulip-57a7ff?style=for-the-badge&labelColor=555555&logo=zulip)](https://versotile.zulipchat.com/)
-- Contributions: We are happy for any contributions! Please check the `CONTRIBTUTING.md` for each project.
+- Contributions: We are happy for any contributions! Please check the `CONTRIBUTING.md` for each project.
