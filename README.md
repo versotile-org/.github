@@ -1,6 +1,6 @@
 # Versotile
 
-Versotile is an umbrella organisation that hosts open source projects, namely the [Verso browser](https://github.com/versotile-org/verso), the [Fortress](https://github.com/versotile-org/fortress) project, a secure enclave for sensitive data, and soon other exciting projects around a free and open source web.
+**Versotile** is an umbrella organisation which hosts open source projects, like the [Verso](https://github.com/versotile-org/verso) browser, [Fortress](https://github.com/versotile-org/fortress) (a secure enclave for sensitive data), and soon other exciting projects around a free and open source web.
 
 ## [Verso](https://github.com/versotile-org/verso)
 
