@@ -38,4 +38,4 @@ In this context, we assume that identity data is implemented using public key cr
 We would like to take this opportunity to thank our donors for their support!
 
 <a href="https://www.crabnebula.dev"><img src="https://github.com/versotile-org/.github/blob/main/assets/logos/logo_cn.svg" width="15%" alt="CrabNebula" /></a> <a href="https://www.nlnet.nl"><img src="https://github.com/versotile-org/.github/blob/main/assets/logos/logo_nlnet.svg" width="15%" alt="NLNet" /></a> 
-<a href="https://www.ngi.eu"><img src="https://github.com/versotile-org/.github/main/assets/logos/logo_ngi.png" width="15%" alt="NGI" /></a>
+<a href="https://www.ngi.eu"><img src="https://github.com/versotile-org/.github/blob/main/assets/logos/logo_ngi.png" width="15%" alt="NGI" /></a>
