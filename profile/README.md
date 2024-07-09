@@ -31,3 +31,13 @@ In this context, we assume that identity data is implemented using public key cr
 
 - Zulip: We are reachable at our [![project chat](https://img.shields.io/badge/zulip-57a7ff?style=for-the-badge&labelColor=555555&logo=zulip)](https://versotile.zulipchat.com/)
 - Contributions: We are happy for any contributions! Please check the `CONTRIBUTING.md` for each project.
+
+## Donors
+
+We would like to take this opportunity to thank our donors for their support!
+
+| Donor | Logo |
+|:-|:-|
+| <a href="https://www.crabnebula.dev">CrabNebula</a> | <img src="https://github.com/versotile-org/.github/blob/docs/README.md/assets/logos/logo_cn.svg" width="15%" alt="CrabNebula" /> |
+| <a href="https://www.nlnet.nl">NLNet</a> | <img src="https://github.com/versotile-org/.github/blob/docs/README.md/assets/logos/logo_nlnet.svg" width="15%" alt="NLNet" /> |
+| <a href="https://www.ngi.eu">NGI</a> |  <img src="https://github.com/versotile-org/.github/blob/docs/README.md/assets/logos/logo_ngi.png" width="15%" alt="NGI" /> |
