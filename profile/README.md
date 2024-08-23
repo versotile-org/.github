@@ -6,7 +6,7 @@
 
 A web browser that plays old world blues to build new world hope.
 
-![Verso demo screen](https://github.com/versotile-org/.github/blob/main/assets/images/verso_demo_screen.png)
+![Verso demo screen](https://github.com/versotile-org/.github/blob/main/assets/images/verso_demo_screen_2.gif)
 
 Verso is a web browser built on top of the Servo web engine. It's in the early stages of development, so we don't accept feature requests at the moment.
 But if you are interested, feel free to help test it.
